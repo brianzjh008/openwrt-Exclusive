@@ -54,4 +54,3 @@ chmod 755 ./package/lucky/luci-app-lucky/root/usr/bin/luckyarch
 git clone https://github.com/liudf0716/luci-app-apfree-wifidog.git package/wifidog
 git clone https://github.com/kenzok8/openwrt-packages package/kenzo
 git clone https://github.com/kenzok8/small-package package/smpackage
-git clone https://github.com/morytyann/OpenWrt-mihomo package/mihomo
